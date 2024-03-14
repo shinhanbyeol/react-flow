@@ -1,0 +1,517 @@
+repo_name: shinhanbyeol/react-flow
+report_id: 5935a3ff4881bd46ab4e877cf151dba1
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-14T04:40:07+00:00'
+requested_by: johnrobbjr
+provider: github
+branch: main
+detected_tools_count: 37
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/shinhanbyeol/react-flow
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/shinhanbyeol/react-flow
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-08-08 11:34:00.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/packages/background/package.json
+  detection_source: packages/background/package.json
+  last_updated_by: Christopher Möller
+  last_updated_on: 2022-07-21 11:25:04.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2019-07-15 14:48:04.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: Cypress
+  description: When testing is easy, developers build better things faster and with
+    confidence.
+  website_url: https://www.cypress.io/
+  version: 10.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-26 10:48:44.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2019-07-15 14:48:04.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow
+  detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-08-08 11:34:00.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/tooling/rollup-config/package.json
+  detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 13:30:39.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 15.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/tooling/rollup-config/package.json
+  detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 13:30:39.000000000 Z
+- name: "@types/d3"
+  description: TypeScript definitions for d3JS
+  package_url: https://www.npmjs.com/@types/d3
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17747/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-02-01 11:23:45.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.7.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/packages/background/package.json
+  detection_source: packages/background/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-02-01 11:23:45.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: d3-selection
+  description: 'Data-driven DOM manipulation: select elements and join them to data'
+  package_url: https://www.npmjs.com/d3-selection
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17187/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/packages/core/package.json
+  detection_source: packages/core/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-26 10:48:44.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
+- name: localforage
+  description: Offline storage, improved
+  package_url: https://www.npmjs.com/localforage
+  version: 1.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17229/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-14 15:39:49.000000000 Z
+- name: postcss-cli
+  description: CLI for PostCSS
+  package_url: https://www.npmjs.com/postcss-cli
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: postcss-import
+  description: PostCSS plugin to import CSS files
+  package_url: https://www.npmjs.com/postcss-import
+  version: 15.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: postcss-nested
+  description: PostCSS plugin to unwrap nested rules like how Sass does it
+  package_url: https://www.npmjs.com/postcss-nested
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16575/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
+- name: rollup-plugin-peer-deps-external
+  description: Rollup plugin to automatically add a library's peerDependencies to
+    its bundle's external config
+  package_url: https://www.npmjs.com/rollup-plugin-peer-deps-external
+  version: 2.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16508/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/tooling/rollup-config/package.json
+  detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 13:30:39.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/shinhanbyeol/react-flow/blob/main/examples/vite-app/package.json
+  detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-24 13:17:55.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+  - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
+      (//)
+    cve_id: CVE-2023-34092
+    cve_url: https://github.com/advisories/GHSA-353f-5xf4-qw67
+    detected_date: Nov 23
+    severity: high
+    first_patched: 4.0.5
